@@ -5,7 +5,7 @@ Meeting minutes of the coco project
 * Make the product backlog (Make reference to `product_backlog.md`)
 * Decided on the role of each member:
 ```
-Changhyun Han: Product Manager / Customer
+Changhyun Han: Product Owner
 Chulwoo Park: Scrum master
 Dongwon Kim: Member
 Kiyeon Kim: Project Manager
