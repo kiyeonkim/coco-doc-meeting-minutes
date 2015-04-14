@@ -1,6 +1,36 @@
 # Meeting minutes
 Meeting minutes of the coco project
 
+
+## 2015-04-14
+
+* About dividing developing task.
+  * Don't split all of task.
+  * We charge bundle of task to each pair programming team.
+  * Pair programming team will split their bundle of task on that working time.
+* NA5G team start first sprint for 2 weeks.
+* Working possiblity in 1st sprint.( considering each team member's schedule. ex-midterm )
+  * Kim Ki yeon - 8 days.
+  * Han Chang Hyun - 10 days.
+  * Park Chul Woo - 8 days.
+  * Kim Dong Won - 8 days.
+  * Kwon Oh Seok - 8 days.
+* Decide pair programming team in 1st sprint.
+  * Considering each member's ablilty.
+  * We can change pair programming team member after this sprint.
+  * Team_1 : Kim Ki Yeon , Han Chang Hyun, Park Chul Woo.
+  * Team_2 : Kim Dong Won, Kwon Oh Seok.
+* Decide standard of moving Trello's task to working done.
+  * Passing test.
+  * Showing demo.
+  * Code review with other team member.
+  * Checking convention.
+* Prepare developing enviroment.
+  * Install module
+  * Database modeling
+  * Construct server.
+
+
 ## 2015-04-10
 * Update the template of the product backlog
 * Update contents of the product backlog
